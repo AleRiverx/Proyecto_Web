@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BlazingProject.Client
+build_property.RootNamespace = BlazingProject.Client
+build_property.ProjectDir = C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Client\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Usuario/Desktop/BlazingProject/BlazingProject/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Desktop/BlazingProject/BlazingProject/Client/Pages/Contact.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Desktop/BlazingProject/BlazingProject/Client/Pages/Events.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Desktop/BlazingProject/BlazingProject/Client/Pages/Membership.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyc2hpcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Desktop/BlazingProject/BlazingProject/Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Desktop/BlazingProject/BlazingProject/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Desktop/BlazingProject/BlazingProject/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-9je86v26q7
+
+[C:/Users/Usuario/Desktop/BlazingProject/BlazingProject/Client/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-k217f4m5y1
+
+[C:/Users/Usuario/Desktop/BlazingProject/BlazingProject/Client/Pages/Normativity.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm9ybWF0aXZpdHkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-dic65255b4
+
+[C:/Users/Usuario/Desktop/BlazingProject/BlazingProject/Client/Pages/Noticies.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90aWNpZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-3bzma3va59
+
+[C:/Users/Usuario/Desktop/BlazingProject/BlazingProject/Client/Pages/UnionPhilosophy.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVW5pb25QaGlsb3NvcGh5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-krcoaop8wd
+
+[C:/Users/Usuario/Desktop/BlazingProject/BlazingProject/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-znthadeswj
+
+[C:/Users/Usuario/Desktop/BlazingProject/BlazingProject/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-n9j355mayi

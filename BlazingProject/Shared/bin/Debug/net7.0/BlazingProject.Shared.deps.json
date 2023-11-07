@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BlazingProject.Shared/1.0.0": {
+        "runtime": {
+          "BlazingProject.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlazingProject.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

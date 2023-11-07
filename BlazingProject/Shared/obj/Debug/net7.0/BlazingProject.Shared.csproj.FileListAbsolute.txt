@@ -1,0 +1,35 @@
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Shared\bin\Debug\net7.0\BlazingProject.Shared.deps.json
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Shared\bin\Debug\net7.0\BlazingProject.Shared.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Shared\bin\Debug\net7.0\BlazingProject.Shared.pdb
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\BlazingProject.Shared.csproj.AssemblyReference.cache
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\BlazingProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\BlazingProject.Shared.AssemblyInfoInputs.cache
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\BlazingProject.Shared.AssemblyInfo.cs
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\BlazingProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\BlazingProject.Shared.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\refint\BlazingProject.Shared.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\BlazingProject.Shared.pdb
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\ref\BlazingProject.Shared.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Shared\bin\Debug\net7.0\BlazingProject.Shared.deps.json
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Shared\bin\Debug\net7.0\BlazingProject.Shared.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Shared\bin\Debug\net7.0\BlazingProject.Shared.pdb
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\BlazingProject.Shared.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\BlazingProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\BlazingProject.Shared.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\BlazingProject.Shared.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\BlazingProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\BlazingProject.Shared.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\refint\BlazingProject.Shared.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\BlazingProject.Shared.pdb
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\ref\BlazingProject.Shared.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Shared\bin\Debug\net7.0\BlazingProject.Shared.deps.json
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Shared\bin\Debug\net7.0\BlazingProject.Shared.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Shared\bin\Debug\net7.0\BlazingProject.Shared.pdb
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\BlazingProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\BlazingProject.Shared.AssemblyInfoInputs.cache
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\BlazingProject.Shared.AssemblyInfo.cs
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\BlazingProject.Shared.csproj.CoreCompileInputs.cache
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\BlazingProject.Shared.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\refint\BlazingProject.Shared.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\BlazingProject.Shared.pdb
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Shared\obj\Debug\net7.0\ref\BlazingProject.Shared.dll

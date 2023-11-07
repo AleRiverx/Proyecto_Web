@@ -1,0 +1,14 @@
+body[b-k217f4m5y1] {
+}
+#btnSubmit[b-k217f4m5y1] {
+    background: rgb(241,212,0);
+    background: linear-gradient(0deg, rgba(241,212,0,1) 0%, rgba(226,154,0,1) 70%);
+}
+#colLogin[b-k217f4m5y1]{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+h2[b-k217f4m5y1]{
+    text-align:center;
+}

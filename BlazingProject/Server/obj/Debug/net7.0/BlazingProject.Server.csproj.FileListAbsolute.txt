@@ -1,0 +1,162 @@
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Client.staticwebassets.runtime.json
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Server.staticwebassets.runtime.json
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Server.exe
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Server.deps.json
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Server.runtimeconfig.json
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Server.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Server.pdb
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Client.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Shared.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Client.pdb
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Shared.pdb
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.csproj.AssemblyReference.cache
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.AssemblyInfoInputs.cache
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.AssemblyInfo.cs
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.csproj.CoreCompileInputs.cache
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.RazorAssemblyInfo.cache
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.RazorAssemblyInfo.cs
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\staticwebassets\msbuild.BlazingProject.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazingProject.Server.props
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazingProject.Server.props
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazingProject.Server.props
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\scopedcss\bundle\BlazingProject.Server.styles.css
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.csproj.CopyComplete
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\refint\BlazingProject.Server.dll
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.pdb
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.genruntimeconfig.cache
+C:\Users\zkeleto\source\repos\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\ref\BlazingProject.Server.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Client.staticwebassets.runtime.json
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Server.staticwebassets.runtime.json
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Server.exe
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Server.deps.json
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Server.runtimeconfig.json
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Server.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Server.pdb
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Client.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Shared.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Client.pdb
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Shared.pdb
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\staticwebassets\msbuild.BlazingProject.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazingProject.Server.props
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazingProject.Server.props
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazingProject.Server.props
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\scopedcss\bundle\BlazingProject.Server.styles.css
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.csproj.CopyComplete
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\refint\BlazingProject.Server.dll
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.pdb
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\ref\BlazingProject.Server.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\appsettings.Development.json
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\appsettings.json
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Client.staticwebassets.runtime.json
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Server.staticwebassets.runtime.json
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Server.exe
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Server.deps.json
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Server.runtimeconfig.json
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Server.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Server.pdb
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Client.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Shared.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Client.pdb
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\bin\Debug\net7.0\BlazingProject.Shared.pdb
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.csproj.AssemblyReference.cache
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.AssemblyInfoInputs.cache
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.AssemblyInfo.cs
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.csproj.CoreCompileInputs.cache
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.MvcApplicationPartsAssemblyInfo.cache
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.RazorAssemblyInfo.cache
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.RazorAssemblyInfo.cs
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\staticwebassets\msbuild.BlazingProject.Server.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazingProject.Server.props
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazingProject.Server.props
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazingProject.Server.props
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\staticwebassets.build.json
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\staticwebassets.development.json
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\scopedcss\bundle\BlazingProject.Server.styles.css
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.csproj.CopyComplete
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\refint\BlazingProject.Server.dll
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.pdb
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\BlazingProject.Server.genruntimeconfig.cache
+G:\Mi unidad\UTP\Inge\9o\Serv social prf Salas\BlazingProjectOriginal\BlazingProject\BlazingProject\Server\obj\Debug\net7.0\ref\BlazingProject.Server.dll
